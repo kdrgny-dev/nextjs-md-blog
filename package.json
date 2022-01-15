@@ -1,0 +1,22 @@
+{
+  "name": "nextjs-md-blog",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "gray-matter": "^4.0.3",
+    "marked": "^4.0.10",
+    "next": "12.0.8",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "eslint": "8.6.0",
+    "eslint-config-next": "12.0.8"
+  }
+}
